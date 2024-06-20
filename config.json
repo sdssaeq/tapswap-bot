@@ -1,0 +1,9 @@
+{
+  "delay": 4000,
+  "boost_taps": 10820,
+  "autobuy": true,
+  "autoBuyTapBot": true,
+  "maxUpgradeTapLevel": 10,
+  "maxUpgradeEnergyLevel": 10,
+  "maxUpgradeChargeLevel": 4
+}
