@@ -6,3 +6,5 @@
 
 1. use ur brain
 2. indo no 1
+
+![alt proof kontol](./terminal.png)
